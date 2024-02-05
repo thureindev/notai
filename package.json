@@ -1,0 +1,30 @@
+{
+  "name": "notai",
+  "version": "1.0.0",
+  "description": "Customizable web UI components.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thureindev/notai.git"
+  },
+  "keywords": [
+    "react",
+    "web",
+    "UI",
+    "reusable",
+    "components"
+  ],
+  "author": "thureindev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thureindev/notai/issues"
+  },
+  "homepage": "https://github.com/thureindev/notai#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  }
+}
