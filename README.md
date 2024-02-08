@@ -1,2 +1,2 @@
 # notai
-Customizable web UI components. Not AI.
+Customizable web UI components.
